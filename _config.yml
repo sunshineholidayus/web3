@@ -24,7 +24,7 @@ author:
   avatar           : "logo-small.png"
   #name             : "Your Sidebar Name"
   #pronouns         : # example: "she/her"  
-  #bio              : "Short biography for the left-hand sidebar"
+  bio              : "Phone: 123<br>Web: www.sunshineholiday.us<br>Address: 123 st"
   #location         : "Earth"
   #employer         : "Red Brick University"
   #uri              : # URL
