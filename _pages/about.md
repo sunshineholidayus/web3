@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 [chinese](#chinese)
-[c2][#c2]
+[c2](#c2)
 
 # english
 
