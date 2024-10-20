@@ -9,8 +9,7 @@ redirect_from:
 
 [English](#english) - [中文](#chinese)
 
-<a name="english"></a>
-We are an experienced team, each of us worked in the industry for many years. We will be able to solve all your travel needs.
+<a name="english"></a>We are an experienced team, each of us worked in the industry for many years. We will be able to solve all your travel needs.
 
 Allow us help you make travel plans or book air tickets or cruises, so that you can travel easily and worry free.
 
@@ -35,8 +34,7 @@ In addition, we also provide life or travel insurance services.
 
 Please contact us for more details.
 
-<a name="chinese"></a>
-我们拥有一个经验丰富的团队，每个人都有着多年的工作经历，能悉心充分了解您的需求。 我们可以帮您做旅游计划，订机票，订邮轮，让您更轻松的无忧无虑地出行。
+<a name="chinese"></a>我们拥有一个经验丰富的团队，每个人都有着多年的工作经历，能悉心充分了解您的需求。 我们可以帮您做旅游计划，订机票，订邮轮，让您更轻松的无忧无虑地出行。
 
 我们专业办理各类签证：
 
