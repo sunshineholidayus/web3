@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-[English](#about-us) - [中文](#about-us-2)
+[English](#english) - [中文](#chinese)
+
+##### English
 
 # About us
 
@@ -38,7 +40,7 @@ Please contact us for more details.
 
 ---
 
-# About us
+##### Chinese
 
 # 关于我们
 
