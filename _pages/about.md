@@ -9,7 +9,7 @@ redirect_from:
 
 [English](#about-us) - [中文](#关于我们）
 
-# About us #{about-us}
+# About us
 
 We are an experienced team, each of us worked in the industry for many years. We will be able to solve all your travel needs.
 
