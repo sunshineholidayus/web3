@@ -36,7 +36,7 @@ In addition, we also provide life or travel insurance services.
 
 Please contact us for more details.
 
----
+***
 
 # 关于我们
 
@@ -55,7 +55,7 @@ Please contact us for more details.
 - 澳大利亚签证
 - 新西兰签证
 - 越南签证
-- 等等。。。
+- 等等……
 
 我们也可以帮您更新护照，绿卡，办理回美证，海牙公证等多元化的业务。
 
