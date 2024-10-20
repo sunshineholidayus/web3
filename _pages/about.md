@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[English](#About us) - [中文](#关于我们)
+[English](#About-us) - [中文](#关于我们)
 
 # About us
 
