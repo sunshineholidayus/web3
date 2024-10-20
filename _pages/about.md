@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[English](#about-us) - [中文](#关于我们)
+[English](#about-us) - [中文](#about-us-chinese)
 
 # About us
 
@@ -35,7 +35,7 @@ We can help you renew your US or Chinese passport, green card, apply for reentry
 In addition, we also provide life or travel insurance services.
 
 Please contact us for more details.
-
+<a name="about-us-chinese"></a>
 ***
 
 <br>
