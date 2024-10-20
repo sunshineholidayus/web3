@@ -1,6 +1,6 @@
 ---
 permalink: /tours
-# title: "Tours - 关于我们"
+# title: "Tours - 旅游"
 author_profile: true
 ---
 
