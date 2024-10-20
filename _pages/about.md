@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-[English](#english) - [中文](#chinese2)
+[English](#english) - [中文](#chinese)
 
 <a name="english"></a>
-
 We are an experienced team, each of us worked in the industry for many years. We will be able to solve all your travel needs.
 
 Allow us help you make travel plans or book air tickets or cruises, so that you can travel easily and worry free.
@@ -36,5 +35,26 @@ In addition, we also provide life or travel insurance services.
 
 Please contact us for more details.
 
-<a name="chinese2"></a>
-中文
+<a name="chinese"></a>
+我们拥有一个经验丰富的团队，每个人都有着多年的工作经历，能悉心充分了解您的需求。 我们可以帮您做旅游计划，订机票，订邮轮，让您更轻松的无忧无虑地出行。
+
+我们专业办理各类签证：
+
+- 中国签证
+- 美国签证
+- 加拿大签证
+- 日本签证
+- 韩国签证
+- 巴西签证
+- 申根签证
+- 英国签证
+- 澳大利亚签证
+- 新西兰签证
+- 越南签证
+- 等等。。。
+
+我们也可以帮您更新护照，绿卡，办理回美证，海牙公证等多元化的业务。
+
+除此之外我们还有人寿保险和旅游保险。
+
+有需要请咨询我们了解详情。
