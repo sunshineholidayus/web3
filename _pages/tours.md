@@ -7,4 +7,3 @@ redirect_from:
 ---
 
 # Coming soon - 即将来临
-
