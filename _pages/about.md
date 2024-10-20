@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About us | 关于我们"
+title: "About us - 关于我们"
 author_profile: true
 redirect_from: 
   - /about/
