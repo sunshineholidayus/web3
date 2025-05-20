@@ -10,10 +10,10 @@
 locale                   : "en-US"
 title                    : "Sunshine Holiday 逸昇旅游"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://sunshineholidayus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/web3" # the subpath of your site, e.g. "/blog"
+name                     : &name "Sunshine Holiday"
+description              : &description "Sunshine Holiday"
+url                      : https://www.sunshineholiday.us # https://sunshineholidayus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/" # "/web3" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
