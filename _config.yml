@@ -12,8 +12,8 @@ title                    : "Sunshine Holiday 逸昇旅游"
 title_separator          : "-"
 name                     : &name "Sunshine Holiday."
 description              : &description "Sunshine Holiday."
-url                      : https://www.sunshineholiday.us # https://sunshineholidayus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" # "/web3" # the subpath of your site, e.g. "/blog"
+url                      : https://sunshineholidayus.github.io # https://sunshineholidayus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/web3" # "/web3" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
